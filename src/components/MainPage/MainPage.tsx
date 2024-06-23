@@ -1,11 +1,10 @@
 import React from 'react';
-import styles from './MainPage.module.scss'
 import {Section} from "@/components/Section";
 
 export const MainPage = () => {
     return (
         <div>
-            <div className={styles.pinned}>
+            <div>
                 <h2>Pinned</h2>
                 <div>
                     <Section></Section>
