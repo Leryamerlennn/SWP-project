@@ -1,15 +1,14 @@
 "use client"
 import { useSelector } from 'react-redux';
 import { RootState } from '@/Store/store';
-import { useRouter } from 'next/navigation';
+import {useParams} from 'next/navigation';
 import styles from '@/styles/Detail.module.scss';
 import {useEffect, useState} from "react";
 import Link from "next/link";
 
 export default function CourseDetail() {
-    const router = useRouter();
-    const { id } = router;
-    const [courseId, setCourseId] = useState<string | string[] | undefined>(undefined);
+    const { id } = useParams();
+    const [courseId, setCourseId] = useState<string | string[]>('1');
     const course = useSelector((state: RootState) => state.courses.selectedCourse);
 
     useEffect(() => {
@@ -18,7 +17,7 @@ export default function CourseDetail() {
         }
     }, [id]);
 
-    if (!course) {
+    if (!courseId || !course) {
         return <div>Loading...</div>;
     }
 
