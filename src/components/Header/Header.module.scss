@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  align-items: flex-start;
+  background-color: #f0f0f0;
+  padding: 10px 0;
+  overflow-x: auto;
+  justify-content: center;
+  white-space: nowrap;
+  gap: 5%;
+
+  span {
+    display: flex;
+    cursor: pointer;
+    color: #7B61FF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 750;
+    line-height: 166.667%;
+    letter-spacing: 0.5px;
+    align-items: flex-start;
+
+  }
+}
