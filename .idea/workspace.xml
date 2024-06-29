@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="649ad1b6-c44a-477e-a3f6-f495dc3f79a7" name="Changes" comment="HotFix 0.3">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SWP-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iFkLMmexKeAzGaN6YEfPYZWYC2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/frontend",
+    "last_opened_file_path": "C:/Users/Valera/my-new-project",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "settings.editor.selected.configurable": "editing.templates",
+    "ts.external.directory.path": "C:\\Users\\Valera\\Фронтенд\\SWP-project\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Valera\Фронтенд\SWP-project\src\app\courses\mainPage\SearchBar" />
+      <recent name="C:\Users\Valera\Фронтенд\SWP-project\src\app" />
+      <recent name="C:\Users\Valera\Фронтенд\SWP-project\src\styles" />
+      <recent name="C:\Users\Valera\Фронтенд\SWP-project\src\app\courses\[id]" />
+      <recent name="C:\Users\Valera\Фронтенд\SWP-project\src\components\Header" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="649ad1b6-c44a-477e-a3f6-f495dc3f79a7" name="Changes" comment="" />
+      <created>1719093655980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719093655980</updated>
+      <workItem from="1719093657046" duration="3418000" />
+      <workItem from="1719097129472" duration="3121000" />
+      <workItem from="1719100281278" duration="3672000" />
+      <workItem from="1719145483197" duration="11490000" />
+      <workItem from="1719484461626" duration="13415000" />
+      <workItem from="1719651229307" duration="3340000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1719102385491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719102385491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Deploy config">
+      <option name="closed" value="true" />
+      <created>1719102558504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719102558504</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HotFix 0.1">
+      <option name="closed" value="true" />
+      <created>1719102720502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719102720502</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HotFix 0.2">
+      <option name="closed" value="true" />
+      <created>1719103244064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719103244064</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HotFix 0.3">
+      <option name="closed" value="true" />
+      <created>1719103497181</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719103497181</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HotFix 0.3">
+      <option name="closed" value="true" />
+      <created>1719652300093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719652300093</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Deploy config" />
+    <MESSAGE value="HotFix 0.1" />
+    <MESSAGE value="HotFix 0.2" />
+    <MESSAGE value="HotFix 0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HotFix 0.3" />
+  </component>
+</project>
