@@ -1,6 +1,6 @@
 "use client"
 import { Montserrat } from "next/font/google";
-import "./globals.css";
+import "@styles/globals.css";
 import {Header} from "@/components";
 import React from "react";
 import {Provider} from "react-redux";
